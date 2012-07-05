@@ -1,1 +1,1 @@
-console.log(42);
+console.log(42),console.log("Line: 13, in File: test.js");
